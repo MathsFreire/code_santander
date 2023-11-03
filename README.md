@@ -12,3 +12,4 @@
 * git diff - Verifica se há diferença no arquivo. 
 * git log - Demonstra todo registro de alteração realizados pelos autores. 
 * git jamba - utilizado para sabotar o esquema da rapazeada
+* git blunt - ajuda a bolar o fino
