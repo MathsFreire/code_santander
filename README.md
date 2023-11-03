@@ -1,6 +1,1 @@
-# code_santander
-# Salve Caique
-# fifinha da rapaziada, bora
-# Bora cheirar pó porra! 
-
-# só valendo o cu
+* git log = demonstra todo registro de alteração realizados pelos autores. 
