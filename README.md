@@ -1,8 +1,2 @@
-# code_santander
-# Salve Caique
-# fifinha da rapaziada, bora
-# Bora cheirar pó porra! 
-
-# só valendo o cu
-
-# Gotham Knights é muito bom! 
+# Comandos Git
+* git pull - puxar estado atual do arquivo repositirio remoto
