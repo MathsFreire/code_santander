@@ -11,4 +11,3 @@
 ## Comandos de verificação
 * git diff - Verifica se há diferença no arquivo. 
 * git log - Demonstra todo registro de alteração realizados pelos autores. 
-* Nasus não pode fugir de mim 
