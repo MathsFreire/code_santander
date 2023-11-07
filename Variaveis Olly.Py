@@ -9,6 +9,7 @@ print (Idade)
 Nome = 'Ollyzinho'
 
 print (Nome)
+
 """
 Tipos de variáveis
 1. Int: Números inteiros, ou seja, números sem parte decimal: 0,5, -1, 1000
@@ -18,7 +19,7 @@ Tipos de variáveis
 """
 Idade = 26
 altura = 1.77
-Nome = Ollyzinho
+Nome = 'Ollyzinho'
 Estudando = True
 
 print ( type(Idade))
